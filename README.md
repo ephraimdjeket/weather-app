@@ -1,2 +1,2 @@
 # weather-app
-upcoming weather app from frontend mentor challenge
+upcoming weather app 
